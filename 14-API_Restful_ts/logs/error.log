@@ -1,0 +1,7 @@
+2024-07-05 18:38:22:3822 - [31merror[39m: [31mCould not connect to db[39m
+2024-07-05 18:43:23:4323 - [31merror[39m: [31mCould not connect to db[39m
+2024-07-05 18:44:48:4448 - [31merror[39m: [31mCould not connect to db[39m
+2024-07-05 18:45:03:453 - [31merror[39m: [31mCould not connect to db[39m
+2024-07-05 18:47:53:4753 - [31merror[39m: [31mCould not connect to db[39m
+2024-07-05 18:52:39:5239 - [31merror[39m: [31mCould not connect to db[39m
+2024-07-05 21:06:12:612 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "66886ef809c5d205cee418663" (type string) at path "_id" for model "Movie"[39m
